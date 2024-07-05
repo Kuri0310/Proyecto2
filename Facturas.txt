@@ -1,0 +1,3 @@
+Cliente: asda, Emisión: 03-23-2024, Mes: julio, Consumo: 150.0, Deuda Total: C$1350.0
+Cliente: Randall, Emisión: 01/01/24, Mes: Enero, Consumo: 120.0, Deuda Total: C$810.0
+Cliente: Kuri, Emisión: 05/08/24, Mes: Agosto, Consumo: 180.0, Deuda Total: C$1620.0

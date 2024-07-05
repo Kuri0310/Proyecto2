@@ -1,0 +1,3 @@
+Nombre: asdf, Marca: asdf, Modelo: asdf, Consumo: 150.0, Deuda: C$1350.0
+Nombre: tele, Marca: sony, Modelo: x600, Consumo: 80.0, Deuda: C$720.0
+Nombre: Microondas, Marca: Lg, Modelo: z200, Consumo: 30.0, Deuda: C$270.0
